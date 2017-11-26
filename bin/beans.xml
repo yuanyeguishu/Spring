@@ -5,7 +5,7 @@
            http://www.springframework.org/schema/beans/spring-beans.xsd">
 
 	<bean id="messageService" class="com.nagisa.service.impl.MessageService">
-		<property name="message" value="云之彼端 约定的地方"></property>
+		<property name="message" value="云之彼端 约定的地方 白色巨塔"></property>
 	</bean>
 
 </beans>
