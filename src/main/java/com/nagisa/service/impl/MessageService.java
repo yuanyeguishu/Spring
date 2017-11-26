@@ -1,7 +1,7 @@
 package com.nagisa.service.impl;
 
 /**
-change content
+change content 2
 */
 public class MessageService {
 	private String message = null;
